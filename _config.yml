@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Laila Walker Portfolio"
+title                    : #"Laila Walker Portfolio"
 title_separator          : "-"
 name                     : &name "Laila Walker"
 description              : &description "Portfolio for meee :3"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : laila-walker-954457168/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
