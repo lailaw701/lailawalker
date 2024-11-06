@@ -12,7 +12,7 @@ title                    : "Laila Walker | Lay-Luh"
 title_separator          : "-"
 name                     : &name "Lay-Luh Walker"
 description              : &description "Portfolio for meee :3"
-url                      : https://lailawalker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lailaw701.github.io/lailawalker/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lailaw701/lailawalker.github.io"
 
