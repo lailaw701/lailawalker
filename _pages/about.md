@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Laila Walker and I am a fourth year undergraduate student studying computer science and data science at UC Berkeley. After working as an educator and software engineering intern, I became interested in Human-Computer Interaction and software engineering. I am in the process of applying for graduate programs around the country.
+My name is Laila Walker and I am a fourth year undergraduate student studying computer  and data science at UC Berkeley! After working as an educator and software engineering intern, I became interested in Human-Computer Interaction and software engineering. 
+
+My goal is to create tools and interfaces that make programming easier for newer and more experienced programmers alike. This became an interest of mine after working as an instructor for several engineering programs in the past and working as a software engineering intern twice. I want to make the world of tech more comfortable for everyone with an emphasis on people of color. I am in the process of applying for graduate programs across the country.
 
 Teaching
 ======
@@ -17,7 +19,7 @@ Teaching
 
 **UC Berkeley College of Engineering**
 
-In Berkeley's COE, I worked as a design assistant for the Pre-Engineering Program, preparing students for introductory coding classes and teaching them fundamental electrical engineering skills. After program completion, I worked as a tutor for Berkeley's introductory Python course, CS61A for six months.
+In Berkeley's COE, I worked as a design assistant for the Pre-Engineering Program, preparing students for introductory coding classes and teaching them fundamental electrical engineering skills. After program completion, I worked as a supplemental tutor for students in the program supporting Berkeley's introductory Python course, CS61A.
 
 Research Experience
 ======

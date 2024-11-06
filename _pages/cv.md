@@ -46,7 +46,7 @@ Work experience
 Extracurriculars
 ======
 * **BESSA** : Predident 
-  * Worked as chapter president, relaunching our annual career fair with various companies and grad schools in attendance, giving students access to job and grad opportunitie
+  * Worked as chapter president, relaunching our annual career fair with various companies and grad schools in attendance, giving students access to job and grad opportunities
   * Oversaw the launch of a new mentorship program supporting fourty students
   * Launched a one unit course on study habits and time management for underrepresented undergraduates
   * Maintained our tutoring program providing academic support for twenty-nine+ introductory courses at Cal
